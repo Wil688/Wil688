@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Wil688
+- 👋 Hi, I’m Wilfried aka @Wil688
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning web tehnologies
-- 💞️ I’m looking for an internship
+- 🌱 I’m currently learning web technologies
+- 💞️ I’m looking for an internship and opportunities
 - 📫 How to reach me ... on linkedin as Wilfried Kouame
 
 <!---
